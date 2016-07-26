@@ -1,6 +1,6 @@
 {
   "name": "lockorientation",
-  "version": "0.1",
+  "version": "1.0",
   "description": "lock orientation",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cogitor/PhoneGap-OrientationLock.git"
+    "url": "git+https://github.com/AlexDeveloper81/PhoneGap-OrientationLock.git"
   },
   "keywords": [
     "convert",
